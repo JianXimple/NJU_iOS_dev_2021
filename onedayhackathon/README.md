@@ -1,3 +1,3 @@
 - an IOS album, with object classification and object detection features
 - developed with Swift
-- recording can be found at 
+- recording can be found at ./recording.mp4
